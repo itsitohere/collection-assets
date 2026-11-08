@@ -1,2 +1,2 @@
-# nuvio-assets
-Cover images and backdrops for Nuvio/AIOMetadata custom collections
+# Collection assets
+Cover images and backdrops for AIOMetadata custom collections
